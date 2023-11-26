@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Svelte**
 
-- 👨‍💻 My projects are available at [rajeevshrestha.info.np](rajeevshrestha.info.np)
+- 👨‍💻 My projects are available at [rajeevshrestha.info.np](https://rajeevshrestha.info.np)
 
 - 💬 Ask me about **React.Js,NextJS**
 
